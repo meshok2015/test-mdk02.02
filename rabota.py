@@ -1,4 +1,4 @@
-N = int(input("Введите целое число N:))
+N = int(input("Введите целое число N:"))
 a = 0
 for i in range(1, N + 1);
     a += i
